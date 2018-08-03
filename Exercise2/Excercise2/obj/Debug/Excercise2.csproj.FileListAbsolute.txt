@@ -1,0 +1,17 @@
+C:\SOURCE\SpenserStuartOpenSource\SimpleTest\Exercise2\Excercise2\bin\Debug\Excercise2.exe.config
+C:\SOURCE\SpenserStuartOpenSource\SimpleTest\Exercise2\Excercise2\bin\Debug\Excercise2.exe
+C:\SOURCE\SpenserStuartOpenSource\SimpleTest\Exercise2\Excercise2\bin\Debug\Excercise2.pdb
+C:\SOURCE\SpenserStuartOpenSource\SimpleTest\Exercise2\Excercise2\obj\Debug\Excercise2.csproj.CoreCompileInputs.cache
+C:\SOURCE\SpenserStuartOpenSource\SimpleTest\Exercise2\Excercise2\obj\Debug\Excercise2.exe
+C:\SOURCE\SpenserStuartOpenSource\SimpleTest\Exercise2\Excercise2\obj\Debug\Excercise2.pdb
+C:\SOURCE\SpenserStuartOpenSource\SimpleTest\Exercise2\Excercise2\obj\Debug\Excercise2.csprojAssemblyReference.cache
+C:\Users\brian\OneDrive - BSS\SRC\CLIENTS\SS\SimpleTest\Exercise2\Excercise2\bin\Debug\Excercise2.dll.config
+C:\Users\brian\OneDrive - BSS\SRC\CLIENTS\SS\SimpleTest\Exercise2\Excercise2\bin\Debug\Excercise2.dll
+C:\Users\brian\OneDrive - BSS\SRC\CLIENTS\SS\SimpleTest\Exercise2\Excercise2\bin\Debug\Excercise2.pdb
+C:\Users\brian\OneDrive - BSS\SRC\CLIENTS\SS\SimpleTest\Exercise2\Excercise2\obj\Debug\Excercise2.csproj.CoreCompileInputs.cache
+C:\Users\brian\OneDrive - BSS\SRC\CLIENTS\SS\SimpleTest\Exercise2\Excercise2\obj\Debug\Excercise2.dll
+C:\Users\brian\OneDrive - BSS\SRC\CLIENTS\SS\SimpleTest\Exercise2\Excercise2\obj\Debug\Excercise2.pdb
+C:\Users\brian\OneDrive - BSS\SRC\CLIENTS\SS\SimpleTest\Exercise2\Excercise2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\brian\OneDrive - BSS\SRC\CLIENTS\SS\SimpleTest\Exercise2\Excercise2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\brian\OneDrive - BSS\SRC\CLIENTS\SS\SimpleTest\Exercise2\Excercise2\obj\Debug\Excercise2.csproj.CopyComplete
+C:\Users\brian\OneDrive - BSS\SRC\CLIENTS\SS\SimpleTest\Exercise2\Excercise2\obj\Debug\Excercise2.csprojAssemblyReference.cache

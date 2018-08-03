@@ -1,0 +1,5 @@
+C:\Users\brian\OneDrive - BSS\SRC\CLIENTS\SS\SimpleTest\Exercise3\Exercise3\bin\Debug\Exercise3.dll
+C:\Users\brian\OneDrive - BSS\SRC\CLIENTS\SS\SimpleTest\Exercise3\Exercise3\bin\Debug\Exercise3.pdb
+C:\Users\brian\OneDrive - BSS\SRC\CLIENTS\SS\SimpleTest\Exercise3\Exercise3\obj\Debug\Exercise3.csproj.CoreCompileInputs.cache
+C:\Users\brian\OneDrive - BSS\SRC\CLIENTS\SS\SimpleTest\Exercise3\Exercise3\obj\Debug\Exercise3.dll
+C:\Users\brian\OneDrive - BSS\SRC\CLIENTS\SS\SimpleTest\Exercise3\Exercise3\obj\Debug\Exercise3.pdb

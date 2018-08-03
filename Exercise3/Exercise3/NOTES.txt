@@ -1,0 +1,50 @@
+﻿    [Test, TestCaseSource("DivideCases")]
+    public void DivideTest(int n, int d, int q)
+    {
+        Assert.AreEqual(q, n / d);
+    }
+
+    static object[] DivideCases =
+    {
+        new object[] { 12, 3, 4 },
+        new object[] { 12, 2, 6 },
+        new object[] { 12, 4, 3 }
+    };
+
+
+	   //yield return new TestCaseData(new byte[] { 1, 1, 1 }, new byte[] { 1, 1, 1 }).Returns(new byte[] { 2, 2, 2 });
+     //yield return new TestCaseData(new byte[] { 1, 1, 255 }, new byte[] { 0, 0, 1 }).Returns(new byte[] { 1, 2, 0 });
+
+
+  //public class MyFactoryClass
+    //{
+    //    public static IEnumerable Add_Source
+    //    {
+    //        get
+    //        {
+    //            yield return new TestCaseData(new byte[] { 1, 1, 1 }, new byte[] { 1, 1, 1 }).Returns(new byte[] { 2, 2, 2 });
+    //            yield return new TestCaseData(new byte[] { 1, 1, 255 }, new byte[] { 0, 0, 1 }).Returns(new byte[] { 1, 2, 0 });
+
+    //        }
+    //    }
+    //}
+
+/*
+    public class MyFactoryClass
+    {
+        public static IEnumerable Add_Source
+        {
+            get
+            {             
+                yield return new TestCaseData(new byte[] { 1, 1, 1 }, new byte[] { 1, 1, 1 })
+                    .Returns(new AddResult(new byte[] { 1, 1, 1 }, new byte[] { 1, 1, 1 }, new byte[] { 2, 2, 2 }));
+
+                yield return new TestCaseData(new byte[] { 1, 1, 255 }, new byte[] { 0, 0, 1 })
+                  .Returns(new AddResult(new byte[] { 1, 1, 255 }, new byte[] { 0, 0, 1 }, new byte[] { 1, 2, 0 }));
+
+                yield return new TestCaseData(new byte[] { 1, 1, 1 }, new byte[] { 1, 1, 1 })
+                  .Returns(new AddResult(new byte[] { 1, 1, 1 }, new byte[] { 1, 1, 1 }, new byte[] { 2, 2, 2 }));
+            }
+        }
+    }
+    */

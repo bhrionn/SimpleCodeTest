@@ -1,0 +1,10 @@
+C:\Users\brian\OneDrive - BSS\SRC\CLIENTS\SS\SimpleTest\Exercise3\ConsoleApp\obj\Debug\ConsoleApp.csprojAssemblyReference.cache
+C:\Users\brian\OneDrive - BSS\SRC\CLIENTS\SS\SimpleTest\Exercise3\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\brian\OneDrive - BSS\SRC\CLIENTS\SS\SimpleTest\Exercise3\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\Users\brian\OneDrive - BSS\SRC\CLIENTS\SS\SimpleTest\Exercise3\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Users\brian\OneDrive - BSS\SRC\CLIENTS\SS\SimpleTest\Exercise3\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Users\brian\OneDrive - BSS\SRC\CLIENTS\SS\SimpleTest\Exercise3\ConsoleApp\bin\Debug\Exercise3.dll
+C:\Users\brian\OneDrive - BSS\SRC\CLIENTS\SS\SimpleTest\Exercise3\ConsoleApp\bin\Debug\Exercise3.pdb
+C:\Users\brian\OneDrive - BSS\SRC\CLIENTS\SS\SimpleTest\Exercise3\ConsoleApp\obj\Debug\ConsoleApp.csproj.CopyComplete
+C:\Users\brian\OneDrive - BSS\SRC\CLIENTS\SS\SimpleTest\Exercise3\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Users\brian\OneDrive - BSS\SRC\CLIENTS\SS\SimpleTest\Exercise3\ConsoleApp\obj\Debug\ConsoleApp.pdb
